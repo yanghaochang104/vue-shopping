@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+- using Vue-cli, Vue-router, Vuex
+
+- bootstrap styling
+
+
 ## Build Setup
 
 ``` bash
